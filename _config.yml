@@ -1,4 +1,19 @@
-theme: jekyll-theme-minimal
-title: Kierstyn's Homepage
-description: Hallo
-markdown: GFM
+title: Kierstyn McMillin
+description: maf
+url: "https://kjerstiow.github.io/"
+baseurl: ""
+
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-include-cache
+
+sass:
+  quiet-deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+    - if-function
+    - slash-div
+
+minimal_mistakes_skin: "air"

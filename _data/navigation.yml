@@ -3,7 +3,9 @@ main:
     url: /
   - title: "Study"
     url: /study/
-  - title: "Projects"
-    url: /projects/
+  - title: "Professional"
+    url: /professional/
+  - title: "About"
+    url: /about/
   - title: "CV"
-    url: /cv/
+    url: assets/cv.pdf

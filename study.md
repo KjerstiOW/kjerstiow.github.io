@@ -1,10 +1,25 @@
 ---
 layout: single
 title: "Independent Study"
+classes: wide
 permalink: "/study/"
 ---
 
-Anyone interested in a particular thing will likely learn more about that thing. I am interested in mathematics, so I learn mathematics. I am also quite ambitious.
+<div class="two-col" markdown="1">
+
+<h1 class="two-col__title">Independent Study</h1>
+
+<div class="two-col__side" markdown="1">
+
+<img src="/assets/images/chalkboard.jpg" width="500">
+
+*δ-Ɛ continuity ⇒ open set continuity*
+
+</div>
+
+<div class="two-col__main" markdown="1">
+
+Anyone interested enough in something will try and learn more about that thing. I am interested in mathematics, so I learn mathematics. 
 
 | Notes | Subject | Book | Status |
 | ----- | ------- | ---- | ------ |
@@ -12,11 +27,16 @@ Anyone interested in a particular thing will likely learn more about that thing.
 | | Category Theory | Riehl | Ongoing | 
 | | Topology | Munkres | Ongoing |
 | [View*](/assets/McMillin_Algebra_Lang.pdf) | Abstract Algebra | Dummit and Foote, Lang | Ongoing |
-| | p-adic Numbers | Gouvea | Paused |
+| | p-adic Numbers | Gouvêa | Paused |
 | | Complex Analysis | Conway | Paused |
 | | Number Theory | Andrews | Completed |
 | [View*](/assets/McMillin_LADR.pdf) | Abstract Linear Algebra | Axler | Completed |
 | | Real Analysis | Abbott | Completed |
 | [View*](/assets/McMillin_Proofs.pdf) | Proof Writing | Hammack | Completed |
+{: .large-table}
 
 *: Partial material
+
+</div>
+
+</div>
